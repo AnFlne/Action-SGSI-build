@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https://bigota.d.miui.com/V12.5.3.0.RFXCNXM/miui_CRUX_V12.5.3.0.RFXCNXM_190e6aea41_11.0.zip'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
@@ -18,7 +18,7 @@ on:
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
-        default: 'AB'
+        default: 'A'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
